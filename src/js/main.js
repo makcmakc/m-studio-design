@@ -1,0 +1,5 @@
+import '../sass/index.sass' 
+import anime from 'animejs/lib/anime.es.js'
+import init from './init.js'
+import animations from './animations.js'
+import fetch from './fetch.js'
